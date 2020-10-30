@@ -2,7 +2,8 @@
 
 >*Aline Pereira* :blush:
 
-![Banco de dados](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fsolvimm.com%2Fblog%2Fque-tipo-de-banco-de-dados-utilizar%2F&psig=AOvVaw2JSXd2wRq5IvmUY8ykkGnR&ust=1604176535126000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPid97qV3ewCFQAAAAAdAAAAABAD)
+![Banco de dados](https://st2.depositphotos.com/1845839/5603/v/950/depositphotos_56034591-stock-illustration-word-cloud-database-security.jpg)
+
 
 
 ## O que são banco de dados?
@@ -21,6 +22,15 @@ Bancos de dados relacionais como MySQL, PostgreSQL e SQLite3 representam e armaz
 **Atributos** – É uma função que mapeia um conjunto de entidades num domínio e identifica, qualifica e descreve esse conjunto de entidades. Uma entidade é representada por um conjunto de atributos.
 
 ## Exemplos de Banco de dados
+
+- Oracle
+- SQL Server
+- MySQL
+- PostgreSQL
+- DB2
+- NoSQL
+- MongoDB
+- Redis
 
 ## Vamos falar sobre MongoDB
 
